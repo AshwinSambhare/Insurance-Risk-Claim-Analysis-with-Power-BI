@@ -54,3 +54,5 @@ Data Analytics: Risk segmentation, trend analysis, and strategic recommendations
 
 📷 Dashboard Preview
 
+![image alt](https://github.com/AshwinSambhare/Insurance-Risk-Claim-Analysis-with-Power-BI/blob/main/INSURANCE%20RISK%20&%20CLAIMS%20ANALYSIS.png?raw=true)
+
